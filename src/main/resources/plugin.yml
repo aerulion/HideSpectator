@@ -1,7 +1,7 @@
 name: HideGM3
 description: HideGM3.
 main: net.aerulion.hidegm3.Main
-version: 1.1
 author: aerulion
-depend: [ProtocolLib]
-api-version: 1.16
+version: '1.2'
+api-version: '1.16'
+depend: [ ProtocolLib ]
